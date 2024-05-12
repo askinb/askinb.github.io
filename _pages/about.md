@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Baris Askin"
+title: "Hi, I am Baris 👋"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +10,7 @@ redirect_from:
 
 Hi, I am Baris!
 
-Here is a link to my [CV](/files/Baris).
+Here is a link to my [CV](/files/BarisAskinCV.pdf).
 
 A data-driven personal website
 ======
