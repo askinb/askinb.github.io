@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD candidate in the in the [Electrical and Computer Engineering Department](https://www.ece.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am advised by [Dr. Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/) and [Dr. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). My research interest broadly lies in distributed optimization, machine learning, and federated learning.
+I am a second-year PhD candidate in the [Department of Electrical and Computer Engineering](https://www.ece.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am advised by [Dr. Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/) and [Dr. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). My research interest broadly lies in distributed optimization, machine learning, and federated learning.
 
 I graduated as the valedictorian from my undergraduate studies in the [Department of Electrical and Electronics Engineering](https://ee.bilkent.edu.tr/en/) at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/) where I was fortunate to work with [Dr. Tolga Cukur](https://kilyos.ee.bilkent.edu.tr/~cukur/) on the deep learning applications in medical imaging.
 
