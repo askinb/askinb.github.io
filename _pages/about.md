@@ -18,7 +18,7 @@ Publications
 ======
 - **FedAST: Federated Asynchronous Simultaneous Training**  
    **B. Askin**, P. Sharma, C. Joe-Wong, G. Joshi  
-   _The Conference on Uncertainty in Artificial Intelligence (UAI), 2024_ [**Link**](https://arxiv.org/abs/2406.00302)
+   _The Conference on Uncertainty in Artificial Intelligence (UAI), 2024_ [**Link**](https://arxiv.org/abs/2406.00302) [**Code**](https://github.com/askinb/FedAST)
 
    **Studies on deep learning applications in medical imaging while I was at Bilkent:**
 
