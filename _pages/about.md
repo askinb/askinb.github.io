@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD candidate in the [Department of Electrical and Computer Engineering](https://www.ece.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am advised by [Dr. Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/) and [Dr. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). My research interest broadly lies in distributed optimization, machine learning, and federated learning.
+I am a third-year PhD candidate in the [Department of Electrical and Computer Engineering](https://www.ece.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am advised by [Dr. Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/) and [Dr. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). My research interest broadly lies in distributed optimization, machine learning, and federated learning.
 
 I graduated as the valedictorian from my undergraduate studies in the [Department of Electrical and Electronics Engineering](https://ee.bilkent.edu.tr/en/) at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/) where I was fortunate to work with [Dr. Tolga Cukur](https://kilyos.ee.bilkent.edu.tr/~cukur/) on the deep learning applications in medical imaging.
 
@@ -18,7 +18,7 @@ Publications
 ======
 - **FedAST: Federated Asynchronous Simultaneous Training**  
    **B. Askin**, P. Sharma, C. Joe-Wong, G. Joshi  
-   _The Conference on Uncertainty in Artificial Intelligence (UAI), 2024_ [**Link**](https://arxiv.org/abs/2406.00302) [**Code**](https://github.com/askinb/FedAST)
+   _The Conference on Uncertainty in Artificial Intelligence (UAI), 2024_ [**Link**](https://arxiv.org/abs/2406.00302) [**Code**](https://github.com/askinb/FedAST) [**Poster**](https://askinb.github.io/files/FedAST_poster.pdf)
 
    **Studies on deep learning applications in medical imaging while I was at Bilkent:**
 
@@ -48,8 +48,9 @@ Publications
 
 Services and Teaching Experience
 ======
-- Reviewer for NeurIPS 2023, ICLR 2024, AISTATS 2024, ISIT 2024, and ICML 2024.
+- Reviewer for NeurIPS 2023, ICLR 2024, AISTATS 2024, ISIT 2024, ICML 2024, AAAI 2025, TMLR and IEEE/ACM Transactions on Networking.
 - Teaching Assistant for [Introduction to Machine Learning for Engineers (18-661)](https://18661.github.io) in Spring 2024
+- Teaching Assistant for [Algorithms for Large-scale Distributed Machine Learning and Optimization (18-667)](https://www.andrew.cmu.edu/course/18-667/) in Fall 2024
 
 Selected Honors and Awards
 ======
