@@ -20,6 +20,9 @@ Publications
    **B. Askin**, P. Sharma, C. Joe-Wong, G. Joshi  
    _The Conference on Uncertainty in Artificial Intelligence (UAI), 2024_ [**Link**](https://arxiv.org/abs/2406.00302) [**Code**](https://github.com/askinb/FedAST) [**Poster**](https://askinb.github.io/files/FedAST_poster.pdf)
 
+- **Communication-Eﬀicient Federated Multi-Objective Optimization**
+  _Under submission_  
+
    **Studies on deep learning applications in medical imaging while I was at Bilkent:**
 
 - **DEQ-MPI: A Deep Equilibrium Reconstruction with Learned Consistency for Magnetic Particle Imaging**  
