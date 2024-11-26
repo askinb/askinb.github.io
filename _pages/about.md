@@ -59,5 +59,6 @@ Services and Teaching Experience
 Selected Honors and Awards
 ======
 - 2023-2024 Ben Cook Presidential Graduate Fellowship in Electrical and Computer Engineering at CMU
+- 2022-2023 Carnegie Institute of Technology Dean’s Fellowship at CMU
 - Bilkent University Comprehensive Scholarship: Full tuition waiver and stipend during the B.Sc. Program
 - Scholarship of Turkish Ministry of Youth and Sports: Awarded stipend during the B.Sc. Program
