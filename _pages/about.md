@@ -16,13 +16,13 @@ Here is a link to my [CV](/files/BarisAskinCV.pdf).
 
 Publications
 ======
+- **Federated Communication-Efficient Multi-Objective Optimization**  
+   **B. Askin**, P. Sharma, G. Joshi, C. Joe-Wong    
+   _International Conference on Artificial Intelligence and Statistics (AISTATS), 2025_ [**Link**](https://arxiv.org/abs/2410.16398)
+
 - **FedAST: Federated Asynchronous Simultaneous Training**  
    **B. Askin**, P. Sharma, C. Joe-Wong, G. Joshi  
    _The Conference on Uncertainty in Artificial Intelligence (UAI), 2024_ [**Link**](https://arxiv.org/abs/2406.00302) [**Code**](https://github.com/askinb/FedAST) [**Poster**](https://askinb.github.io/files/FedAST_poster.pdf)
-
-- **Federated Communication-Efficient Multi-Objective Optimization**  
-   **B. Askin**, P. Sharma, G. Joshi, C. Joe-Wong    
-   _Preprint_ [**Link**](https://arxiv.org/abs/2410.16398)
 
    **Studies on deep learning applications in medical imaging while I was at Bilkent:**
 
@@ -52,7 +52,7 @@ Publications
 
 Services and Teaching Experience
 ======
-- Reviewer for NeurIPS 2023, ICLR 2024, AISTATS 2024, ISIT 2024, ICML 2024, AAAI 2025, TMLR and IEEE/ACM Transactions on Networking.
+- Reviewer for NeurIPS, ICLR, AISTATS, ISIT, ICML, AAAI, TMLR and IEEE/ACM Transactions on Networking, MLSys.
 - Teaching Assistant for [Introduction to Machine Learning for Engineers (18-661)](https://18661.github.io) in Spring 2024
 - Teaching Assistant for [Algorithms for Large-scale Distributed Machine Learning and Optimization (18-667)](https://www.andrew.cmu.edu/course/18-667/) in Fall 2024
 
