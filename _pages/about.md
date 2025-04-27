@@ -18,7 +18,7 @@ Publications
 ======
 - **Federated Communication-Efficient Multi-Objective Optimization**  
    **B. Askin**, P. Sharma, G. Joshi, C. Joe-Wong    
-   _International Conference on Artificial Intelligence and Statistics (AISTATS), 2025_ [**Link**](https://arxiv.org/abs/2410.16398)
+   _International Conference on Artificial Intelligence and Statistics (AISTATS), 2025_ [**Link**](https://arxiv.org/abs/2410.16398) [**Poster**](https://askinb.github.io/files/FedCMOO_poster.pdf)
 
 - **FedAST: Federated Asynchronous Simultaneous Training**  
    **B. Askin**, P. Sharma, C. Joe-Wong, G. Joshi  
