@@ -24,9 +24,9 @@ Publications
    **B. Askin**, P. Sharma, C. Joe-Wong, G. Joshi  
    _The Conference on Uncertainty in Artificial Intelligence (UAI), 2024_ [**Link**](https://proceedings.mlr.press/v244/askin24a.html) [**Code**](https://github.com/askinb/FedAST) [**Poster**](https://askinb.github.io/files/FedAST_poster.pdf)
 
-  - **Ravan: Multi-Head Low-Rank Adaptation for Federated Fine-Tuning**  
-   Arian Raje, **B. Askin**, D. Jhunjhunwala, G. Joshi  
-   _Preprint, 2025_ [**Link**](https://arxiv.org/abs/2506.05568) 
+- **Ravan: Multi-Head Low-Rank Adaptation for Federated Fine-Tuning**  
+ Arian Raje, **B. Askin**, D. Jhunjhunwala, G. Joshi  
+ _Preprint, 2025_ [**Link**](https://arxiv.org/abs/2506.05568) 
 
    **Studies on deep learning applications in medical imaging while I was at Bilkent:**
 
