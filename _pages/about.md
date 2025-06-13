@@ -40,7 +40,7 @@ Publications
 
 - **PP-MPI: A Deep Plug-and-Play Prior for Magnetic Particle Imaging Reconstruction**  
    **B. Askin**, A. Güngör, D. A. Soydan, E. U. Saritas, C. B. Top, T. Çukur  
-   _International Workshop on Machine Learning for Medical Image Reconstruction (MLMIR), 2022_ [**Link**](https://repository.bilkent.edu.tr/server/api/core/bitstreams/0f316c24-94b3-4b90-86b0-15a6617f15d3/content)
+   _International Workshop on Machine Learning for Medical Image Reconstruction (MLMIR), 2022_ [**Link**](https://repository.bilkent.edu.tr/server/api/core/bitstreams/0f316c24-94b3-4b90-86b0-15a6617f15d3/content) [**Code**](https://github.com/icon-lab/PP-MPI)
 
 - **TranSMS: Transformers for Super-Resolution Calibration in Magnetic Particle Imaging**  
    A. Güngör, **B. Askin**, D. A. Soydan, E. U. Saritas, C. B. Top, T. Çukur  
