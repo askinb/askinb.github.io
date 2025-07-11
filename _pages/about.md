@@ -14,6 +14,11 @@ I graduated as the valedictorian from my undergraduate studies in the [Departmen
 
 Here is a link to my [CV](/files/BarisAskinCV.pdf).
 
+Work Experience
+======
+- **Applied Research Intern, NVIDIA**, Herndon, VA  
+  · Working on scalable Federated Learning algorithms
+
 Publications
 ======
 - **Federated Communication-Efficient Multi-Objective Optimization**  
@@ -25,7 +30,7 @@ Publications
    _The Conference on Uncertainty in Artificial Intelligence (UAI), 2024_ [**Link**](https://proceedings.mlr.press/v244/askin24a.html) [**Code**](https://github.com/askinb/FedAST) [**Poster**](https://askinb.github.io/files/FedAST_poster.pdf)
 
 - **Ravan: Multi-Head Low-Rank Adaptation for Federated Fine-Tuning**  
- Arian Raje, **B. Askin**, D. Jhunjhunwala, G. Joshi  
+ A. Raje, **B. Askin**, D. Jhunjhunwala, G. Joshi  
  _Preprint, 2025_ [**Link**](https://arxiv.org/abs/2506.05568) 
 
    **Studies on deep learning applications in medical imaging while I was at Bilkent:**
