@@ -17,7 +17,7 @@ Here is a link to my [CV](/files/BarisAskinCV.pdf).
 Work Experience
 ======
 - **Applied Research Intern, NVIDIA**, Herndon, VA  
-  · Working on scalable Federated Learning algorithms
+  · Working on scalable and asynchronous federated learning algorithms
 
 Publications
 ======
@@ -25,13 +25,17 @@ Publications
    **B. Askin**, P. Sharma, G. Joshi, C. Joe-Wong    
    _International Conference on Artificial Intelligence and Statistics (AISTATS), 2025_ [**Link**](https://arxiv.org/abs/2410.16398) [**Code**](https://github.com/askinb/FedCMOO) [**Poster**](https://askinb.github.io/files/FedCMOO_poster.pdf)
 
+- **Ravan: Multi-Head Low-Rank Adaptation for Federated Fine-Tuning**  
+ A. Raje, **B. Askin**, D. Jhunjhunwala, G. Joshi  
+ _The Conference on Neural Information Processing Systems (NeurIPS), 2025_ [**Link**](https://arxiv.org/abs/2506.05568)
+
+- **Language Model Planning From An Information Theoretic Perspective**  
+ M. Ustaomeroglu*, **B. Askin***, G. Joshi, C. Joe-Wong, G. Qu       
+ *equal authorship, _under review, 2025_
+
 - **FedAST: Federated Asynchronous Simultaneous Training**  
    **B. Askin**, P. Sharma, C. Joe-Wong, G. Joshi  
    _The Conference on Uncertainty in Artificial Intelligence (UAI), 2024_ [**Link**](https://proceedings.mlr.press/v244/askin24a.html) [**Code**](https://github.com/askinb/FedAST) [**Poster**](https://askinb.github.io/files/FedAST_poster.pdf)
-
-- **Ravan: Multi-Head Low-Rank Adaptation for Federated Fine-Tuning**  
- A. Raje, **B. Askin**, D. Jhunjhunwala, G. Joshi  
- _Preprint, 2025_ [**Link**](https://arxiv.org/abs/2506.05568) 
 
    **Studies on deep learning applications in medical imaging while I was at Bilkent:**
 
