@@ -31,7 +31,7 @@ Publications
 
 - **Language Model Planning From An Information Theoretic Perspective**  
  M. Ustaomeroglu*, **B. Askin***, G. Joshi, C. Joe-Wong, G. Qu       
- *equal authorship, _under review, 2025_
+ *equal contribution, _under review, 2025_ [**Link**](https://arxiv.org/abs/2509.25260)
 
 - **FedAST: Federated Asynchronous Simultaneous Training**  
    **B. Askin**, P. Sharma, C. Joe-Wong, G. Joshi  
