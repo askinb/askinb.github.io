@@ -30,7 +30,7 @@ Publications
  _The Conference on Neural Information Processing Systems (NeurIPS), 2025_ [**Link**](https://arxiv.org/abs/2506.05568)
 
 - **Language Model Planning From An Information Theoretic Perspective**  
- M. Ustaomeroglu*, **B. Askin***, G. Joshi, C. Joe-Wong, G. Qu       
+ M. Ustaomeroglu*, **B. Askin**\*, G. Joshi, C. Joe-Wong, G. Qu       
  *equal contribution, _under review, 2025_ [**Link**](https://arxiv.org/abs/2509.25260)
 
 - **FedAST: Federated Asynchronous Simultaneous Training**  
