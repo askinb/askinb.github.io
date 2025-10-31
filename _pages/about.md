@@ -16,14 +16,19 @@ Here is a link to my [CV](/files/BarisAskinCV.pdf).
 
 Work Experience
 ======
-- **Applied Research Intern, NVIDIA**, Herndon, VA  
-  · Working on scalable and asynchronous federated learning algorithms
+**Applied Research Intern, NVIDIA**, Summer 2025, Herndon, VA  
++ Worked on scalable and asynchronous federated learning algorithms
++ Wrote the FedRevive paper as an output of the internship
 
 Publications
 ======
 - **Federated Communication-Efficient Multi-Objective Optimization**  
    **B. Askin**, P. Sharma, G. Joshi, C. Joe-Wong    
    _International Conference on Artificial Intelligence and Statistics (AISTATS), 2025_ [**Link**](https://arxiv.org/abs/2410.16398) [**Code**](https://github.com/askinb/FedCMOO) [**Poster**](https://askinb.github.io/files/FedCMOO_poster.pdf)
+
+- **Reviving Stale Updates: Data-Free Knowledge Distillation for Asynchronous Federated Learning**  
+   **B. Askin**, H. R. Roth, Z. Sun, C. Joe-Wong, G. Joshi, Z. Xu    
+   _under review, 2025_ 
 
 - **Ravan: Multi-Head Low-Rank Adaptation for Federated Fine-Tuning**  
  A. Raje, **B. Askin**, D. Jhunjhunwala, G. Joshi  
