@@ -17,11 +17,14 @@ Here is a link to my [CV](/files/BarisAskinCV.pdf).
 Work Experience
 ======
 **Applied Research Intern, NVIDIA**, Summer 2025, Herndon, VA  
-+ Worked on scalable and asynchronous federated learning algorithms
-+ Wrote the FedRevive paper as an output of the internship
++ Worked on asynchronous federated learning algorithms using knowledge distillation  [**Paper**](https://arxiv.org/abs/2511.00655)
 
 Publications
 ======
+- **Language Model Planning From An Information Theoretic Perspective**  
+ M. Ustaomeroglu*, **B. Askin**\*, G. Joshi, C. Joe-Wong, G. Qu       
+ *equal contribution, _under review, 2025_ [**Link**](https://arxiv.org/abs/2509.25260)
+  
 - **Federated Communication-Efficient Multi-Objective Optimization**  
    **B. Askin**, P. Sharma, G. Joshi, C. Joe-Wong    
    _International Conference on Artificial Intelligence and Statistics (AISTATS), 2025_ [**Link**](https://arxiv.org/abs/2410.16398) [**Code**](https://github.com/askinb/FedCMOO) [**Poster**](https://askinb.github.io/files/FedCMOO_poster.pdf)
@@ -29,10 +32,6 @@ Publications
 - **Ravan: Multi-Head Low-Rank Adaptation for Federated Fine-Tuning**  
  A. Raje, **B. Askin**, D. Jhunjhunwala, G. Joshi  
  _The Conference on Neural Information Processing Systems (NeurIPS), 2025_ [**Link**](https://arxiv.org/abs/2506.05568)
-
-- **Language Model Planning From An Information Theoretic Perspective**  
- M. Ustaomeroglu*, **B. Askin**\*, G. Joshi, C. Joe-Wong, G. Qu       
- *equal contribution, _under review, 2025_ [**Link**](https://arxiv.org/abs/2509.25260)
 
 - **Reviving Stale Updates: Data-Free Knowledge Distillation for Asynchronous Federated Learning**  
    **B. Askin**, H. R. Roth, Z. Sun, C. Joe-Wong, G. Joshi, Z. Xu    
@@ -42,7 +41,10 @@ Publications
    **B. Askin**, P. Sharma, C. Joe-Wong, G. Joshi  
    _The Conference on Uncertainty in Artificial Intelligence (UAI), 2024_ [**Link**](https://proceedings.mlr.press/v244/askin24a.html) [**Code**](https://github.com/askinb/FedAST) [**Poster**](https://askinb.github.io/files/FedAST_poster.pdf)
 
-   **Studies on deep learning applications in medical imaging while I was at Bilkent:**
+
+\
+\
+*Studies on deep learning applications in medical imaging while I was at Bilkent:*
 
 - **DEQ-MPI: A Deep Equilibrium Reconstruction with Learned Consistency for Magnetic Particle Imaging**  
    A. Güngör, **B. Askin**, D. A. Soydan, C. B. Top, E. U. Saritas, T. Çukur  
