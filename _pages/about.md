@@ -16,14 +16,14 @@ Here is a link to my [CV](/files/BarisAskinCV.pdf).
 
 Work Experience
 ======
-**Applied Research Intern, NVIDIA**, Summer 2025, Herndon, VA  
+**Research Intern, NVIDIA**, Summer 2025, Herndon, VA  
 + Worked on asynchronous federated learning algorithms using knowledge distillation  [**Paper**](https://arxiv.org/abs/2511.00655)
 
 Publications
 ======
 - **Language Model Planning From An Information Theoretic Perspective**  
  M. Ustaomeroglu*, **B. Askin**\*, G. Joshi, C. Joe-Wong, G. Qu       
- *equal contribution, _under review, 2025_ [**Link**](https://arxiv.org/abs/2509.25260)
+ *equal contribution, _International Conference on Learning Representations (ICLR), 2026_ [**Link**](https://arxiv.org/abs/2509.25260)
   
 - **Federated Communication-Efficient Multi-Objective Optimization**  
    **B. Askin**, P. Sharma, G. Joshi, C. Joe-Wong    
