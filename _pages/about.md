@@ -21,12 +21,12 @@ Work Experience
 
 Publications
 ======
-- **Language Model Planning From An Information Theoretic Perspective**  
+- **Internal Planning in Language Models: Characterizing Horizon and Branch Awareness**  
   M. Ustaomeroglu*, **B. Askin**\*, G. Joshi, C. Joe-Wong, G. Qu  *equal contribution  
   _International Conference on Learning Representations (ICLR), 2026_ [**Link**](https://arxiv.org/abs/2509.25260)
 
 - **Federate the Router: Learning LM Routers with Sparse and Decentralized Evaluations**  
-  **B. Askin**\*, S. Patel*, A. Nayak*, A. Vigano, J. Woo, G. Joshi, C. Joe-Wong  
+  **B. Askin**\*, S. Patel\*, A. Nayak\*, A. Vigano, J. Woo, G. Joshi, C. Joe-Wong  
   _(Preprint, under review, 2026)_ [**Link**](https://www.arxiv.org/abs/2601.22318)
 
 - **Reviving Stale Updates: Data-Free Knowledge Distillation for Asynchronous FL**  
