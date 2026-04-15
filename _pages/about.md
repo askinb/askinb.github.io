@@ -33,6 +33,10 @@ Publications
   **B. Askin**, H. R. Roth, Z. Sun, C. Joe-Wong, G. Joshi, Z. Xu  
   _(Preprint, under review, 2026)_ [**Link**](https://arxiv.org/abs/2511.00655)
 
+- **PubSwap: Public-Data Off-Policy Coordination for Federated RLVR**  
+  A. Nayak*, **B. Askin**\*, M. Ustaomeroglu, C. Joe-Wong, G. Joshi  
+  _(Preprint, under review, 2026)_ [**Link**](https://arxiv.org/abs/2604.12160)
+
 - **Federated Communication-Efficient Multi-Objective Optimization**  
   **B. Askin**, P. Sharma, G. Joshi, C. Joe-Wong  
   _International Conference on Artificial Intelligence and Statistics (AISTATS), 2025_ [**Link**](https://arxiv.org/abs/2410.16398) [**Code**](https://github.com/askinb/FedCMOO) [**Poster**](https://askinb.github.io/files/FedCMOO_poster.pdf)
