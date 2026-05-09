@@ -58,7 +58,7 @@ ul.task-list input[type="checkbox"] {
 .profile {
   width: 100%;
   // Mobile: shrink the photo so it doesn't dominate the screen.
-  max-width: 55%;
+  max-width: 41%;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 1rem;
@@ -284,6 +284,16 @@ img[data-zoomable] {
   .social.social-compact {
     margin-top: 0.5rem;
     margin-bottom: 1.25rem;
+  }
+
+  // Hide paper preview thumbnails on mobile — they take up too much space.
+  // Applies to both /publications/ and the homepage "selected publications" list.
+  // The bibliography entry (title, authors, abbr badge, links) stays; only the
+  // image is suppressed.
+  ol.bibliography li figure,
+  ol.bibliography li picture,
+  ol.bibliography li img.preview {
+    display: none !important;
   }
 }
 
