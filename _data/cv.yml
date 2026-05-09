@@ -1,0 +1,94 @@
+cv:
+  name: Baris Askin
+  label: PhD Candidate, Carnegie Mellon University
+  email: baskin@andrew.cmu.edu
+  location: Pittsburgh, PA, USA
+  image: ""
+  summary: PhD Candidate in Electrical and Computer Engineering at Carnegie Mellon University. Research interests in language models, federated/distributed learning, and their intersection.
+
+  social_networks:
+    - network: GitHub
+      username: askinb
+    - network: LinkedIn
+      username: baris-askin
+
+  sections:
+    Education:
+      - institution: Carnegie Mellon University
+        location: Pittsburgh, PA, USA
+        url: https://www.ece.cmu.edu/
+        area: Electrical and Computer Engineering
+        studyType: PhD
+        start_date: 2022
+        end_date: present
+        highlights:
+          - "Advisors: Prof. Gauri Joshi and Prof. Carlee Joe-Wong."
+          - "Research focus: language models, federated/distributed learning."
+
+      - institution: Bilkent University
+        location: Ankara, Turkey
+        url: https://ee.bilkent.edu.tr/en/
+        area: Electrical and Electronics Engineering
+        studyType: B.Sc. (Valedictorian)
+        start_date: 2017
+        end_date: 2022
+        highlights:
+          - "Worked with Prof. Tolga Cukur on deep learning for medical imaging."
+
+    Experience:
+      - company: NVIDIA
+        position: Research Intern
+        location: Herndon, VA, USA
+        start_date: 2025-05
+        end_date: 2025-08
+        summary: Federated learning research with the federated learning team.
+        highlights:
+          - "Asynchronous federated learning algorithms with knowledge distillation."
+
+      - company: Carnegie Mellon University
+        position: Graduate Research Assistant
+        location: Pittsburgh, PA, USA
+        start_date: 2022-08
+        end_date: present
+        highlights:
+          - "Federated/distributed optimization and learning."
+          - "Language models: planning, routing, and federated post-training."
+
+    Awards:
+      - title: Ben Cook Presidential Graduate Fellowship
+        awarder: Carnegie Mellon University, ECE
+        date: 2023
+        summary: Awarded for the 2023–2024 academic year.
+
+      - title: Carnegie Institute of Technology Dean's Fellowship
+        awarder: Carnegie Mellon University
+        date: 2022
+        summary: Awarded for the 2022–2023 academic year.
+
+      - title: Bilkent University Comprehensive Scholarship
+        awarder: Bilkent University
+        date: 2017
+        summary: Full tuition waiver and stipend during the B.Sc. program.
+
+      - title: Scholarship of the Turkish Ministry of Youth and Sports
+        awarder: Republic of Türkiye, Ministry of Youth and Sports
+        date: 2017
+        summary: Stipend awarded throughout the B.Sc. program.
+
+    Teaching:
+      - title: "Teaching Assistant: 18-667 Algorithms for Large-Scale Distributed Machine Learning and Optimization"
+        institution: Carnegie Mellon University
+        date: Fall 2024
+        url: https://www.andrew.cmu.edu/course/18-667/
+
+      - title: "Teaching Assistant: 18-661 Introduction to Machine Learning for Engineers"
+        institution: Carnegie Mellon University
+        date: Spring 2024
+        url: https://18661.github.io
+
+    Service:
+      - name: Conference Reviewer
+        keywords: "NeurIPS, ICLR, AISTATS, ICML, AAAI, ISIT, MLSys"
+
+      - name: Journal Reviewer
+        keywords: "TMLR, IEEE/ACM Transactions on Networking"
