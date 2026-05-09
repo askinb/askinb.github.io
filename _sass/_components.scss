@@ -57,6 +57,11 @@ ul.task-list input[type="checkbox"] {
 
 .profile {
   width: 100%;
+  // Mobile: shrink the photo so it doesn't dominate the screen.
+  max-width: 55%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1rem;
 
   .more-info {
     margin-bottom: 5px;
@@ -82,6 +87,10 @@ ul.task-list input[type="checkbox"] {
 @media (min-width: 576px) {
   .profile {
     width: 22%;
+    max-width: none;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
 
     .address {
       p {
@@ -252,6 +261,30 @@ ul.task-list input[type="checkbox"] {
 // Safari medium-zoom: keep zoomed image crisp (Chrome already does)
 .medium-zoom-image--opened {
   image-rendering: -webkit-optimize-contrast;
+}
+
+// Make zoomable images obviously clickable on Safari (Chrome adds it via JS,
+// Safari sometimes doesn't show the cursor when the img is wrapped in <picture>).
+img[data-zoomable] {
+  cursor: zoom-in;
+}
+
+// Mobile-only: more breathing room between sections (news / selected papers / social).
+@media (max-width: 575.98px) {
+  .post article > h2 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+
+  .post article .news,
+  .post article .publications {
+    margin-bottom: 1.5rem;
+  }
+
+  .social.social-compact {
+    margin-top: 0.5rem;
+    margin-bottom: 1.25rem;
+  }
 }
 
 .wechat-modal {
