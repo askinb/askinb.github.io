@@ -33,3 +33,16 @@ footer.sticky-bottom {
     text-align: center;
   }
 }
+
+// Mobile: shrink footer text to 3/4 size and tighten padding.
+@media (max-width: 575.98px) {
+  footer.sticky-bottom {
+    padding-top: 24px;
+    padding-bottom: 24px;
+    font-size: 0.675rem; // 0.9rem * 0.75
+  }
+
+  footer.fixed-bottom {
+    font-size: 0.5625rem; // 0.75rem * 0.75
+  }
+}
