@@ -1,0 +1,48 @@
+# Hard-coded bibtex strings shown when the "Bib" button is clicked.
+# Used to override jekyll-scholar's auto-rendering — primarily so that
+# preprint citations match the exact text exported by arXiv.
+# Keyed by the citation key in _bibliography/papers.bib.
+
+askin2026emergent: |
+  @misc{askin2026emergentsubliminalmisalignmentlens,
+        title={Emergent and Subliminal Misalignment Through the Lens of Data-Mediated Transfer},
+        author={Baris Askin and Muhammed Ustaomeroglu and Anupam Nayak and Gauri Joshi and Guannan Qu and Carlee Joe-Wong},
+        year={2026},
+        eprint={2605.12798},
+        archivePrefix={arXiv},
+        primaryClass={cs.LG},
+        url={https://arxiv.org/abs/2605.12798},
+  }
+
+askin2026federate: |
+  @misc{askin2026federaterouterlearninglanguage,
+        title={Federate the Router: Learning Language Model Routers with Sparse and Decentralized Evaluations},
+        author={Baris Askin and Shivam Patel and Anupam Nayak and Andrea Vigano and Jiin Woo and Gauri Joshi and Carlee Joe-Wong},
+        year={2026},
+        eprint={2601.22318},
+        archivePrefix={arXiv},
+        primaryClass={cs.LG},
+        url={https://arxiv.org/abs/2601.22318},
+  }
+
+askin2026reviving: |
+  @misc{askin2026revivingstaleupdatesdatafree,
+        title={Reviving Stale Updates: Data-Free Knowledge Distillation for Asynchronous Federated Learning},
+        author={Baris Askin and Holger R. Roth and Zhenyu Sun and Carlee Joe-Wong and Gauri Joshi and Ziyue Xu},
+        year={2026},
+        eprint={2511.00655},
+        archivePrefix={arXiv},
+        primaryClass={cs.LG},
+        url={https://arxiv.org/abs/2511.00655},
+  }
+
+nayak2026pubswap: |
+  @misc{nayak2026pubswappublicdataoffpolicycoordination,
+        title={PubSwap: Public-Data Off-Policy Coordination for Federated RLVR},
+        author={Anupam Nayak and Baris Askin and Muhammed Ustaomeroglu and Carlee Joe-Wong and Gauri Joshi},
+        year={2026},
+        eprint={2604.12160},
+        archivePrefix={arXiv},
+        primaryClass={cs.LG},
+        url={https://arxiv.org/abs/2604.12160},
+  }
