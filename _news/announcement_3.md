@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started a research internship at **NVIDIA** (Herndon, VA) for Summer 2025, working on asynchronous federated learning algorithms with knowledge distillation.
+Started a research internship at **NVIDIA** for Summer 2025, working on asynchronous federated learning algorithms with knowledge distillation.
