@@ -202,6 +202,9 @@
       {% if entry.hal %}
         <a href="https://hal.science/{{ entry.hal }}" class="btn btn-sm z-depth-0" role="button">HAL</a>
       {% endif %}
+      {% if entry.link %}
+        <a href="{{ entry.link }}" class="btn btn-sm z-depth-0" role="button">Link</a>
+      {% endif %}
       {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       {% endif %}

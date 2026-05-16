@@ -46,3 +46,46 @@ nayak2026pubswap: |
         primaryClass={cs.LG},
         url={https://arxiv.org/abs/2604.12160},
   }
+
+askin2022ppmpi: |
+  @InProceedings{10.1007/978-3-031-17247-2_11,
+  author="Askin, Baris
+  and G{\"u}ng{\"o}r, Alper
+  and Alptekin Soydan, Damla
+  and Saritas, Emine Ulku
+  and Top, Can Bar{\i}{\c{s}}
+  and Cukur, Tolga",
+  editor="Haq, Nandinee
+  and Johnson, Patricia
+  and Maier, Andreas
+  and Qin, Chen
+  and W{\"u}rfl, Tobias
+  and Yoo, Jaejun",
+  title="PP-MPI: A Deep Plug-and-Play Prior for Magnetic Particle Imaging Reconstruction",
+  booktitle="Machine Learning for Medical Image Reconstruction",
+  year="2022",
+  publisher="Springer International Publishing",
+  address="Cham",
+  pages="105--114",
+  isbn="978-3-031-17247-2"
+  }
+
+raje2025ravan: |
+  @article{raje2026ravan,
+    title={Ravan: Multi-head low-rank adaptation for federated fine-tuning},
+    author={Raje, Arian and Askin, Baris and Jhunjhunwala, Divyansh and Joshi, Gauri},
+    journal={Advances in Neural Information Processing Systems},
+    volume={38},
+    pages={48564--48592},
+    year={2026}
+  }
+
+ustaomeroglu2026internal: |
+  @inproceedings{
+  ustaomeroglu2026internal,
+  title={Internal Planning in Language Models: Characterizing Horizon and Branch Awareness},
+  author={Muhammed Ustaomeroglu and Baris Askin and Gauri Joshi and Carlee Joe-Wong and Guannan Qu},
+  booktitle={The Fourteenth International Conference on Learning Representations},
+  year={2026},
+  url={https://openreview.net/forum?id=dqGWQdFdTC}
+  }
