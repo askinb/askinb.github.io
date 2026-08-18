@@ -4,26 +4,30 @@
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
-        {%- if site.data.venues[entry.abbr] -%}
-          {% assign venue_style = null %}
-          {% if site.data.venues[entry.abbr].color != blank %}
-            {% assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' %}
-          {%- endif -%}
-          <abbr
-            class="badge rounded w-100"
-            {% if venue_style %}
-              {{ venue_style }}
-            {% endif -%}
-          >
-            {% if site.data.venues[entry.abbr].url %}
-              <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
-            {% else %}
-              <div>{{- entry.abbr -}}</div>
-            {% endif %}
-          </abbr>
-        {% else %}
-          <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
-        {% endif %}
+        {% assign abbr_list = entry.abbr | split: ";" %}
+        {% for raw_abbr in abbr_list %}
+          {% assign one_abbr = raw_abbr | strip %}
+          {%- if site.data.venues[one_abbr] -%}
+            {% assign venue_style = null %}
+            {% if site.data.venues[one_abbr].color != blank %}
+              {% assign venue_style = site.data.venues[one_abbr].color | prepend: 'style="background-color:' | append: '"' %}
+            {%- endif -%}
+            <abbr
+              class="badge rounded w-100 mb-1"
+              {% if venue_style %}
+                {{ venue_style }}
+              {% endif -%}
+            >
+              {% if site.data.venues[one_abbr].url %}
+                <a href="{{ site.data.venues[one_abbr].url }}">{{ one_abbr }}</a>
+              {% else %}
+                <div>{{- one_abbr -}}</div>
+              {% endif %}
+            </abbr>
+          {% else %}
+            <abbr class="badge rounded w-100 mb-1">{{ one_abbr }}</abbr>
+          {% endif %}
+        {% endfor %}
       {% endif %}
       {% if entry.preview %}
         {% if entry.preview contains '://' %}
