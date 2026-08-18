@@ -89,3 +89,13 @@ ustaomeroglu2026internal: |
   year={2026},
   url={https://openreview.net/forum?id=dqGWQdFdTC}
   }
+
+jiang2026position: |
+  @inproceedings{
+  jiang2026position,
+  title={Position: Federated Learning is a Lens towards a Democratized Future for the Scaling Law Era},
+  author={Harry H. Jiang and Baris Askin and Gauri Joshi and Carlee Joe-Wong},
+  booktitle={Forty-third International Conference on Machine Learning Position Paper Track},
+  year={2026},
+  url={https://openreview.net/forum?id=td1fQFeIiI}
+  }
