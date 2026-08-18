@@ -48,8 +48,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-internal-planning-in-language-models-characterizing-horizon-and-branch-awareness-was-accepted-to-iclr-2026-paper",
           title: 'Our paper Internal Planning in Language Models: Characterizing Horizon and Branch Awareness was...',
           description: "",
-          section: "News",},{id: "news-will-join-imc-trading-as-a-quant-researcher-intern-for-summer-2026",
-          title: 'Will join IMC Trading as a Quant Researcher Intern for Summer 2026.',
+          section: "News",},{id: "news-started-a-quant-research-internship-at-imc-trading-for-summer-2026",
+          title: 'Started a Quant Research internship at IMC Trading for Summer 2026.',
           description: "",
           section: "News",},{
         id: 'social-cv',
