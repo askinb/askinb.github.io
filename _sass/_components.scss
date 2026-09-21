@@ -104,12 +104,14 @@ ul.task-list input[type="checkbox"] {
 
 // Job market banner — sits between the bio and the social/CV icon row.
 .job-market-banner {
+  display: inline-block;
+  max-width: 100%;
   border: 1px solid var(--global-danger-block);
   background-color: var(--global-card-bg-color);
   color: var(--global-text-color);
   padding: 0.4rem 0.75rem;
   border-radius: 0;
-  margin-top: 0.5rem;
+  margin-top: 0;
   margin-bottom: 1rem;
   text-align: left;
   font-weight: 500;
