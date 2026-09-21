@@ -40,6 +40,11 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <!-- Job market banner -->
+    {% if site.job_market_banner != blank %}
+      <div class="job-market-banner">{{ site.job_market_banner }}</div>
+    {% endif %}
+
     <!-- Social (compact, just below bio) -->
     {% if page.social %}
       <div class="social social-compact">

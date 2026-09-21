@@ -7,6 +7,7 @@ first_name: Baris
 middle_name:
 last_name: Askin
 contact_note:
+job_market_banner: "I'm currently on the industry job market, available starting Spring 2027. Feel free to reach out!"
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD Candidate in Electrical and Computer Engineering at Carnegie Mellon University. Research on language models, federated and distributed learning.
 footer_text: >
