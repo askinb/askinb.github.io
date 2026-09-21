@@ -114,9 +114,10 @@ ul.task-list input[type="checkbox"] {
   border-radius: 0;
   margin-top: 0;
   // The social-compact icon row right after this has margin-top: -1.25rem
-  // (tuned to sit close under the bio text); bump this past that negative
-  // pull so the icon row doesn't overlap the banner.
-  margin-bottom: 1.5rem;
+  // (tuned to sit close under the bio text), which was leaving almost no
+  // visible gap here. Push further so there's real breathing room above
+  // the CV/social icon row.
+  margin-bottom: 3rem;
   text-align: left;
   font-weight: 500;
 }
