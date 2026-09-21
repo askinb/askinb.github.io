@@ -51,6 +51,12 @@ ninja.data = [{
           section: "News",},{id: "news-started-a-quant-research-internship-at-imc-trading-for-summer-2026",
           title: 'Started a Quant Research internship at IMC Trading for Summer 2026.',
           description: "",
+          section: "News",},{id: "news-pubswap-public-data-off-policy-coordination-for-federated-rlvr-was-accepted-to-icml-2026-workshop-on-rl-from-world-feedback-paper",
+          title: 'PubSwap: Public-Data Off-Policy Coordination for Federated RLVR was accepted to ICML 2026 Workshop...',
+          description: "",
+          section: "News",},{id: "news-emergent-and-subliminal-misalignment-through-the-lens-of-data-mediated-transfer-was-accepted-to-icml-2026-workshop-on-foundations-of-deep-generative-models-paper",
+          title: 'Emergent and Subliminal Misalignment Through the Lens of Data-Mediated Transfer was accepted to...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
