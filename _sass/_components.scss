@@ -104,7 +104,8 @@ ul.task-list input[type="checkbox"] {
 
 // Job market banner — sits between the bio and the social/CV icon row.
 .job-market-banner {
-  display: inline-block;
+  display: block;
+  width: fit-content;
   max-width: 100%;
   border: 1px solid var(--global-danger-block);
   background-color: var(--global-card-bg-color);
@@ -112,7 +113,10 @@ ul.task-list input[type="checkbox"] {
   padding: 0.4rem 0.75rem;
   border-radius: 0;
   margin-top: 0;
-  margin-bottom: 1rem;
+  // The social-compact icon row right after this has margin-top: -1.25rem
+  // (tuned to sit close under the bio text); bump this past that negative
+  // pull so the icon row doesn't overlap the banner.
+  margin-bottom: 1.5rem;
   text-align: left;
   font-weight: 500;
 }
