@@ -5,4 +5,8 @@ inline: true
 related_posts: false
 ---
 
-*Emergent and Subliminal Misalignment Through the Lens of Data-Mediated Transfer* was accepted to **NeurIPS 2026**! [[paper]](https://arxiv.org/abs/2605.12798)
+**3 first-authored papers were accepted to NeurIPS 2026!**
+
+- *Emergent and Subliminal Misalignment Through the Lens of Data-Mediated Transfer* [[paper]](https://arxiv.org/abs/2605.12798)
+- *Federate the Router: Learning LM Routers with Sparse and Decentralized Evaluations* [[paper]](https://arxiv.org/abs/2601.22318)
+- *Reviving Stale Updates: Data-Free Knowledge Distillation for Asynchronous Federated Learning* [[paper]](https://arxiv.org/abs/2511.00655)
