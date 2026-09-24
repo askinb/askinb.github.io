@@ -54,7 +54,13 @@ ninja.data = [{
           section: "News",},{id: "news-pubswap-public-data-off-policy-coordination-for-federated-rlvr-was-accepted-to-icml-2026-workshop-on-rl-from-world-feedback-paper",
           title: 'PubSwap: Public-Data Off-Policy Coordination for Federated RLVR was accepted to ICML 2026 Workshop...',
           description: "",
-          section: "News",},{id: "news-emergent-and-subliminal-misalignment-through-the-lens-of-data-mediated-transfer-was-accepted-to-icml-2026-workshop-on-foundations-of-deep-generative-models-paper",
+          section: "News",},{id: "news-reviving-stale-updates-data-free-knowledge-distillation-for-asynchronous-federated-learning-was-accepted-to-neurips-2026-paper",
+          title: 'Reviving Stale Updates: Data-Free Knowledge Distillation for Asynchronous Federated Learning was accepted to...',
+          description: "",
+          section: "News",},{id: "news-federate-the-router-learning-lm-routers-with-sparse-and-decentralized-evaluations-was-accepted-to-neurips-2026-paper",
+          title: 'Federate the Router: Learning LM Routers with Sparse and Decentralized Evaluations was accepted...',
+          description: "",
+          section: "News",},{id: "news-emergent-and-subliminal-misalignment-through-the-lens-of-data-mediated-transfer-was-accepted-to-neurips-2026-paper",
           title: 'Emergent and Subliminal Misalignment Through the Lens of Data-Mediated Transfer was accepted to...',
           description: "",
           section: "News",},{
@@ -73,10 +79,10 @@ ninja.data = [{
         },
       },{
         id: 'social-scholar',
-        title: 'Google Scholar',
+        title: 'Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=tXfENd4AAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?hl=en&user=tXfENd4AAAAJ&view_op=list_works&sortby=pubdate", "_blank");
         },
       },{
         id: 'social-linkedin',
