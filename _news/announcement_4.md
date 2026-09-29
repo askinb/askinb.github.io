@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[FedCMOO](https://arxiv.org/abs/2410.16398) (federated multi-objective optimization) accepted to **AISTATS 2025**.
+Our work on federated multi-objective optimization was accepted to **AISTATS 2025**! [[paper]](https://arxiv.org/abs/2410.16398)

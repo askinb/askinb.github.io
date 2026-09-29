@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received the **Ben Cook Presidential Graduate Fellowship** at CMU.
+Honored to receive the **Ben Cook Presidential Graduate Fellowship** at CMU.

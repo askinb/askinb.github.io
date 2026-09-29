@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Ravan](https://arxiv.org/abs/2506.05568) (federated LoRA fine-tuning) accepted to **NeurIPS 2025**.
+Our work on LoRA fine-tuning in FL was accepted to **NeurIPS 2025**! [[paper]](https://arxiv.org/abs/2506.05568)

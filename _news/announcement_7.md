@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started a quant research internship at **IMC Trading**.
+Started a Quant Research internship at **IMC Trading** for Summer 2026.

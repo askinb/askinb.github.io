@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on [internal planning in LLMs](https://arxiv.org/abs/2509.25260) accepted to **ICLR 2026**.
+Our work on internal planning of language models was accepted to **ICLR 2026**! [[paper]](https://arxiv.org/abs/2509.25260)

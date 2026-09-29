@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[FedAST](https://arxiv.org/abs/2406.00302) (asynchronous multi-model FL) accepted to **UAI 2024**.
+Our work on asynchronous multi-model FL was accepted to **UAI 2024**! [[paper]](https://arxiv.org/abs/2406.00302)
