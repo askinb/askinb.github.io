@@ -370,3 +370,15 @@ img[data-zoomable] {
 .d2h-diff-table {
   position: relative;
 }
+
+// Tighter news rows; drop the default list margin after bulleted news items.
+.news .table-sm th,
+.news .table-sm td {
+  padding-top: 0.15rem;
+  padding-bottom: 0.15rem;
+}
+
+.news td ul {
+  margin-bottom: 0;
+  padding-left: 1.25rem;
+}
