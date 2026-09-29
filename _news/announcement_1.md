@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper *Internal Planning in Language Models: Characterizing Horizon and Branch Awareness* was accepted to **ICLR 2026**! [[paper]](https://arxiv.org/abs/2509.25260)
+Our paper on [internal planning in LLMs](https://arxiv.org/abs/2509.25260) accepted to **ICLR 2026**.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-*FedAST: Federated Asynchronous Simultaneous Training* was accepted to **UAI 2024**! [[paper]](https://arxiv.org/abs/2406.00302) [[code]](https://github.com/askinb/FedAST)
+[FedAST](https://arxiv.org/abs/2406.00302) (asynchronous multi-model FL) accepted to **UAI 2024**.

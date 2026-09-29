@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-*Federated Communication-Efficient Multi-Objective Optimization* was accepted to **AISTATS 2025**! [[paper]](https://arxiv.org/abs/2410.16398) [[code]](https://github.com/askinb/FedCMOO)
+[FedCMOO](https://arxiv.org/abs/2410.16398) (federated multi-objective optimization) accepted to **AISTATS 2025**.

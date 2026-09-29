@@ -5,8 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**3 first-authored papers were accepted to NeurIPS 2026!**
-
-- *Emergent and Subliminal Misalignment Through the Lens of Data-Mediated Transfer* [[paper]](https://arxiv.org/abs/2605.12798)
-- *Federate the Router: Learning LM Routers with Sparse and Decentralized Evaluations* [[paper]](https://arxiv.org/abs/2601.22318)
-- *Reviving Stale Updates: Data-Free Knowledge Distillation for Asynchronous Federated Learning* [[paper]](https://arxiv.org/abs/2511.00655)
+**3 first-authored papers accepted to NeurIPS 2026!** On [misalignment transfer](https://arxiv.org/abs/2605.12798), [federated LLM routing](https://arxiv.org/abs/2601.22318), and [asynchronous FL](https://arxiv.org/abs/2511.00655).

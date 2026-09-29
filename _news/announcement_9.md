@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-*PubSwap: Public-Data Off-Policy Coordination for Federated RLVR* was accepted to **ICML 2026 Workshop on RL from World Feedback**! [[paper]](https://arxiv.org/abs/2604.12160)
+[PubSwap](https://arxiv.org/abs/2604.12160) (federated RLVR) accepted to the **ICML 2026 RLxF Workshop**.

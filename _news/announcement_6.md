@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Honored to receive the **Ben Cook Presidential Graduate Fellowship** in Electrical and Computer Engineering at CMU for the 2023–2024 academic year.
+Received the **Ben Cook Presidential Graduate Fellowship** at CMU.
