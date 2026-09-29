@@ -28,6 +28,6 @@ latest_posts:
 
 Hi, I am Baris 👋
 
-I am a fifth-year PhD candidate in the [Department of Electrical and Computer Engineering](https://www.ece.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am advised by [Dr. Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/) and [Dr. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). My research interests broadly lie in **language models**, **federated/distributed learning**, and their intersection.
+I am a fifth-year PhD candidate in the [Department of Electrical and Computer Engineering](https://www.ece.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/) and [Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). My research work spans **large language models (LLMs)**, including alignment, interpretability, post-training, and model routing, as well as **federated/distributed learning**. I have also been a **research intern at NVIDIA** and a quant research intern at IMC Trading.
 
-I graduated as the valedictorian from my undergraduate studies in the [Department of Electrical and Electronics Engineering](https://ee.bilkent.edu.tr/en/) at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/), where I was fortunate to work with [Dr. Tolga Cukur](https://kilyos.ee.bilkent.edu.tr/~cukur/) on deep learning applications in medical imaging.
+I graduated as the **valedictorian** from my undergraduate studies in the [Department of Electrical and Electronics Engineering](https://ee.bilkent.edu.tr/en/) at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/), where I worked with [Tolga Çukur](https://kilyos.ee.bilkent.edu.tr/~cukur/) on deep learning for medical imaging.
