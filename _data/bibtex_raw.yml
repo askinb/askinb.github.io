@@ -5,7 +5,7 @@
 
 askin2026emergent: |
   @misc{askin2026emergentsubliminalmisalignmentlens,
-        title={Emergent and Subliminal Misalignment Through the Lens of Data-Mediated Transfer},
+        title={Examining the Impact of Data and Training Methods on Emergent and Subliminal Misalignment},
         author={Baris Askin and Muhammed Ustaomeroglu and Anupam Nayak and Gauri Joshi and Guannan Qu and Carlee Joe-Wong},
         year={2026},
         eprint={2605.12798},
